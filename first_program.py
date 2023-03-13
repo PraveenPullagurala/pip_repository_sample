@@ -1,4 +1,4 @@
-### Intial program to install python source code as  package
+""" Intial program to install python source code as  package  """
 
 __version__='sample'
 def print_statement():
